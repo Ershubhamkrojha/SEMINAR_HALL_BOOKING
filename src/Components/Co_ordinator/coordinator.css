@@ -1,0 +1,25 @@
+.co_img {
+    height: 35pc;
+    width: 85pc;
+    position: relative;
+
+   
+
+}
+
+
+
+.cl {
+    /* align-items: center;
+    justify-content: center;*/
+    top: 10pc;
+
+    position: absolute;
+right:40pc;
+background-color: #073515;
+  
+}
+.co-container {
+   
+
+}

@@ -1,0 +1,17 @@
+.loader {
+  background-color: rgba(109, 104, 104, 0.8);
+  position: absolute;
+  width: 100vw;
+  height: 100vh;
+  z-index: 9999;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  gap: 5px;
+}
+.loader_text {
+  font-size: 1.9em;
+  color: rgb(7, 223, 223);
+  font-weight: 800;
+}

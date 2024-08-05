@@ -1,0 +1,13 @@
+ /* 
+
+.container, .container-fluid, .container-lg, .container-md, .container-sm, .container-xl, .container-xxl {
+   
+    height: 100vh;
+} */
+.bookbtn{
+    padding-top: 5%;
+}
+.booking-bg{
+    background: #85b6b1;
+    height: 100vh;
+}

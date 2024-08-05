@@ -1,0 +1,15 @@
+.main_img {
+    /* opacity: 0.50; */
+    /* margin-top: 5rem; */
+    height: 100%;
+    /* background-color: red; */
+    /* padding: 1rem; */
+    border: 2px solid red;
+}
+
+.main_img img {
+    /* height: 87vh; */
+    
+    height: 50pc;
+    width: 100%;
+}
